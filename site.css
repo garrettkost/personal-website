@@ -1,0 +1,7 @@
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
+
+img {
+  border-radius: 25%;
+}
